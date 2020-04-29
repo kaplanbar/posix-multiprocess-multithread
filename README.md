@@ -1,5 +1,5 @@
 # Find primes in given range
-The program finds all the prime numbers in the given range with number of processes and number of threads in each process specified by the user.
+The program finds all the prime numbers in the given range with number of processes and number of threads in each process specified by the user. It can be used as a simple example for instantiating processes, threads, communicating between processes and interprocess mutex locks.
 
 ## Quick Start
 Clone the repository to local and compile the code with `make`.
